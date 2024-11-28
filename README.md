@@ -1,9 +1,11 @@
-# Hotwax-ass
-###  Create a GitHub Account
+# Hotwax-assignment
+### Create a GitHub Account <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" height="20">
+
 1. Visit [GitHub](https://github.com) and sign up for a free account.
 2. Complete the registration process by verifying your email address.
 
-###  Create a New Repository (Repo)
+###  Create a New Repository (Repo) 
+
 1. Log in to your GitHub account.
 2. Click the "New" button to create a new repository.
 3. Fill out the repository details:
